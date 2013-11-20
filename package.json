@@ -1,11 +1,9 @@
 {
-  "name": "Json test",
-  "version": "0.0.0",
-  "description": "Google DevArt Submission Template",
-  "main": "SUBMISSION.md",
+  "name": "flakes of http",
+  "description": "how requests can replace cereals",
   "keywords": [
-    "markdown",
-    "template"
+    "http",
+    "python"
   ],
   "author": "London Droids",
   "license": "MIT"
