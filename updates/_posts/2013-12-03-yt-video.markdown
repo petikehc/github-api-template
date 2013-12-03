@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Testing YT"
+date:   2013-12-03 10:58:22
+categories: jekyll update
+---
+
+This is the example of a post using video embed on Youtube. The embed has to use an iframe and needs to be in the same size to conform to our template grid.
+
+<iframe width="640" height="480" src="http://www.youtube.com/embed/oz5lYp6XauA" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
