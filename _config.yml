@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: how I started from an empty template and ended up with a gargantuan installation
 markdown: redcarpet
-pygments: true
+pygments: truei
+baseurl: /github-api-template
